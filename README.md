@@ -1,3 +1,4 @@
 # DailyProjectsChallenge
 
-Here is store fun little projects which I build daily following tutorials on daily basis
+Here I store fun little projects which I build following tutorials on daily basis.
+It mostly contains HTML/CSS/JS.
